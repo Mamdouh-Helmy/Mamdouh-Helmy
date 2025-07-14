@@ -39,32 +39,29 @@ Hi, I’m Mamdouh Mustafa Helmy, a freshly graduated Full Stack Developer from M
 
 ## 🚀 Featured Projects
 <div align="center">
-  <a href="https://restaurant-d5367.web.app/" title="Kuwait System">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Kuwait-System&theme=react&border_color=61dafb&border_radius=10" alt="Kuwait System" />
-  </a>
-  <a href="https://store-management-467c1.web.app/" title="Store Management">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Store-Management&theme=react&border_color=61dafb&border_radius=10" alt="Store Management" />
-  </a>
+  - 🌟 **[Kuwait System](https://restaurant-d5367.web.app/)**
+    - 📝 **Description**: A bilingual (Arabic/English) food delivery platform with scheduling, multiple payment options, and an admin dashboard for managing menus, prices, sales, and stock.
+    - 🛠️ **Technologies**: Firebase, React.js, Tailwind CSS, Node.js, Express.js, MongoDB
+    - 🌐 **Live Demo**: [Visit](https://restaurant-d5367.web.app/)
+  - 🌟 **[Store Management](https://store-management-467c1.web.app/)**
+    - 📝 **Description**: An inventory system with sales, purchases, supplier/customer tracking, PDF invoices, and detailed reports with flowcharts.
+    - 🛠️ **Technologies**: React.js, Tailwind CSS, Node.js, Express.js, MongoDB
+    - 🌐 **Live Demo**: [Visit](https://store-management-467c1.web.app/) (Username: mamdouh, Password: mamdouh1970@)
+  - 🌟 **[ServiceX](https://servicex-741d4.web.app/)**
+    - 📝 **Description**: A multi-platform service app (web & mobile) for requesting services, viewing technicians, and support, with an admin dashboard.
+    - 🛠️ **Technologies**: Flutter, Firebase, React.js, Tailwind CSS, TypeScript, ASP.NET
+    - 🌐 **Live Demo**: 
+      - [ServiceX](https://servicex-741d4.web.app/)
+      - [Admin Dashboard](https://dashboard-admin-4e8cb.web.app/)
+  - 🌟 **[Mental Health](https://mental-health-deafe.web.app/)**
+    - 📝 **Description**: A portal with diagnosis questions, real-time community, and appointment booking for doctors and patients.
+    - 🛠️ **Technologies**: React.js, Tailwind CSS, Node.js, Express.js, MongoDB
+    - 🌐 **Live Demo**: [Visit](https://mental-health-deafe.web.app/)
+  - 🌟 **[E-commerce Website](https://mamdouh-helmy.github.io/my-ecommerce-app/)**
+    - 📝 **Description**: An e-commerce site from a Mindset scholarship project, designed on Figma with React.js and Context API.
+    - 🛠️ **Technologies**: React.js, Context API, Browser Router
+    - 🌐 **Live Demo**: [Visit](https://mamdouh-helmy.github.io/my-ecommerce-app/)
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div align="center">
-  <a href="https://servicex-741d4.web.app/" title="ServiceX">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=ServiceX&theme=react&border_color=61dafb&border_radius=10" alt="ServiceX" />
-  </a>
-  <a href="https://mental-health-deafe.web.app/" title="Mental Health">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Mental-Health&theme=react&border_color=61dafb&border_radius=10" alt="Mental Health" />
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div align="center">
-  <a href="https://mamdouh-helmy.github.io/my-ecommerce-app/" title="E-commerce Website">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=my-ecommerce-app&theme=react&border_color=61dafb&border_radius=10" alt="E-commerce Website" />
-  </a>
-  <a href="https://dashboard-admin-4e8cb.web.app/" title="Admin Dashboard">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Admin-Dashboard&theme=react&border_color=61dafb&border_radius=10" alt="Admin Dashboard" />
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
 <h4 align="center">
   <a href="https://github.com/Mamdouh-Helmy?tab=repositories" title="Show More">🔍 Show More Repositories 🔎</a>
 </h4>
