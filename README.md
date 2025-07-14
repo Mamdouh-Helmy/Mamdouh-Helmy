@@ -6,7 +6,7 @@
 
 # 🌟 Mamdouh Mustafa Helmy - Full Stack Developer
 <div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF0000&vCenter=true&width=500&height=50&lines=Hello,+There!+👋;I'm+Mamdouh+Mustafa+Helmy;Full+Stack+Developer;Graduated+2025" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I%27m+Mamdouh+Mustafa+Helmy;Full+Stack+Developer;Graduated+2025¢er=true&size=30&color=FFD700" alt="Typing SVG" />
 </div>
 
 ## 👋 About Me
@@ -14,7 +14,7 @@ Hi, I’m Mamdouh Mustafa Helmy, a freshly graduated Full Stack Developer from M
 - 🎓 Graduated with a focus on MERN Stack and modern web technologies.  
 - 💻 Experienced in building websites and applications for clients.  
 - 📚 Currently exploring advanced UI/UX and cloud computing.  
-- 💬 Ask me anything: [Open an Issue](https://github.com/Mamdouh-Helmy/Mamdouh-Helmy/issues).  
+- 💬 Ask me anything: [Open an Issue](https://github.com/Mamdouh-Helmy/Mamdouh-Helmy/issues).
 - 📫 Reach me: [mamdouhcs1@gmail.com](mailto:mamdouhcs1@gmail.com).
 
 ## 🛠️ Languages & Tools
