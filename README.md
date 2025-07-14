@@ -133,11 +133,20 @@ Hi, I’m Mamdouh Mustafa Helmy, a freshly graduated Full Stack Developer from M
 </div>
 
 ## 🌐 Connect With Me
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/mamdoh-helmy-487418289"><img src="https://img.icons8.com/ios-filled/30/00C4B4/linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://github.com/Mamdouh-Helmy"><img src="https://img.icons8.com/ios-filled/30/FFD700/github.png" alt="GitHub" /></a>
-  <a href="https://mamdouh-s-personal-website.web.app/"><img src="https://img.icons8.com/ios-filled/30/28A745/chrome.png" alt="Portfolio" /></a>
-  <a href="mailto:mamdouhcs1@gmail.com"><img src="https://img.icons8.com/ios-filled/30/FFD700/gmail.png" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mamdoh-helmy-487418289" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Mamdouh-Helmy" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-@Mamdouh--Helmy-black?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+  </a>
+  <a href="https://mamdouh-s-personal-website.web.app/" title="Portfolio">
+    <img src="https://img.shields.io/badge/Website-Portfolio-important?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="mailto:mamdouhcs1@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-mamdouhcs1%40gmail.com-DD4A4A?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
 </div>
 
 ## 💡 Fun Fact  
