@@ -104,7 +104,7 @@ app.get('/api/projects', async (req, res) => {
 });
 ```
 <div align="center" style="margin-top: 40px;">
-https://komarev.com/ghpvc/?username=Mamdouh-Helmy&color=blueviolet&style=flat-square
+<img src="https://ibb.co/GvxHkFpn" width="40%" />
 
 </div>
 ⭐ From Mamdouh Helmy with ❤️
