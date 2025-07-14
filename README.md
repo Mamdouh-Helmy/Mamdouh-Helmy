@@ -19,49 +19,52 @@ Hi, I’m Mamdouh Mustafa Helmy, a freshly graduated Full Stack Developer from M
 
 ## 🛠️ Languages & Tools
 <div align="center">
-  <img src="https://img.shields.io/badge/C%23-28A745?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/HTML5-28A745?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-28A745?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-28A745?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-28A745?style=for-the-badge&logo=react&logoColor=FFD700" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-28A745?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-28A745?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-28A745?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/TypeScript-28A745?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-28A745?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Sass-28A745?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/Bootstrap-28A745?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Next.js-28A745?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Flutter-28A745?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Git-28A745?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-28A745?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
 ## 🚀 Featured Projects
 <div align="center">
-  - 🌱 **Kuwait System**
-    - 📝 **Description**: A bilingual (Arabic/English) food delivery website with scheduling and multiple payment options, plus an admin dashboard for menu, pricing, sales, and stock management.
-    - 🛠️ **Technologies**: Firebase, React.js, Tailwind CSS, Node.js, Express.js, MongoDB
-    - 🌐 **Live Demo**: [https://restaurant-d5367.web.app/](https://restaurant-d5367.web.app/)
-  - 🌱 **Store Management**
-    - 📝 **Description**: An inventory system with sales, purchases, supplier/customer tracking, PDF invoices, and detailed reports with flowcharts.
-    - 🛠️ **Technologies**: React.js, Tailwind CSS, Node.js, Express.js, MongoDB
-    - 🌐 **Live Demo**: [https://store-management-467c1.web.app/](https://store-management-467c1.web.app/) (Username: mamdouh, Password: mamdouh1970@)
-  - 🌱 **ServiceX**
-    - 📝 **Description**: A multi-platform service app (web & mobile) for requesting services, viewing technicians, and support, with an admin dashboard.
-    - 🛠️ **Technologies**: Flutter, Firebase, React.js, Tailwind CSS, TypeScript, ASP.NET
-    - 🌐 **Live Demo**: 
-      - [ServiceX](https://servicex-741d4.web.app/)
-      - [Admin Dashboard](https://dashboard-admin-4e8cb.web.app/)
-  - 🌱 **Mental Health**
-    - 📝 **Description**: A portal with diagnosis questions, real-time community, and appointment booking for doctors and patients.
-    - 🛠️ **Technologies**: React.js, Tailwind CSS, Node.js, Express.js, MongoDB
-    - 🌐 **Live Demo**: [https://mental-health-deafe.web.app/](https://mental-health-deafe.web.app/)
-  - 🌱 **E-commerce Website**
-    - 📝 **Description**: An e-commerce site from a Mindset scholarship project, designed on Figma with React.js and Context API.
-    - 🛠️ **Technologies**: React.js, Context API, Browser Router
-    - 🌐 **Live Demo**: [https://mamdouh-helmy.github.io/my-ecommerce-app/](https://mamdouh-helmy.github.io/my-ecommerce-app/)
+  <a href="https://restaurant-d5367.web.app/" title="Kuwait System">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Kuwait-System&theme=react&border_color=61dafb&border_radius=10" alt="Kuwait System" />
+  </a>
+  <a href="https://store-management-467c1.web.app/" title="Store Management">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Store-Management&theme=react&border_color=61dafb&border_radius=10" alt="Store Management" />
+  </a>
 </div>
+<br/><br/><br/><br/><br/><br/>
+<div align="center">
+  <a href="https://servicex-741d4.web.app/" title="ServiceX">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=ServiceX&theme=react&border_color=61dafb&border_radius=10" alt="ServiceX" />
+  </a>
+  <a href="https://mental-health-deafe.web.app/" title="Mental Health">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Mental-Health&theme=react&border_color=61dafb&border_radius=10" alt="Mental Health" />
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div align="center">
+  <a href="https://mamdouh-helmy.github.io/my-ecommerce-app/" title="E-commerce Website">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=my-ecommerce-app&theme=react&border_color=61dafb&border_radius=10" alt="E-commerce Website" />
+  </a>
+  <a href="https://dashboard-admin-4e8cb.web.app/" title="Admin Dashboard">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Admin-Dashboard&theme=react&border_color=61dafb&border_radius=10" alt="Admin Dashboard" />
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 <h4 align="center">
   <a href="https://github.com/Mamdouh-Helmy?tab=repositories" title="Show More">🔍 Show More Repositories 🔎</a>
 </h4>
