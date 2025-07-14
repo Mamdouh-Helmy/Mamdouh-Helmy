@@ -1,113 +1,109 @@
-# Mamdouh Mustafa Helmy - Full Stack Developer
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=80&lines=Hello%2C+I'm+Mamdouh+Mustafa+Helmy;Full+Stack+Developer;MERN+Stack+Specialist;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </div>
 
-## 🛠️ Tech Stack
+---
+
+## 🛠️ Skills & Proficiency
 
 <div align="center">
-  
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Others
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+  <!-- HTML/CSS -->
+  <p><strong>HTML & CSS</strong></p>
+  <progress value="90" max="100" style="width: 80%;"></progress>
+  <!-- JavaScript -->
+  <p><strong>JavaScript</strong></p>
+  <progress value="85" max="100" style="width: 80%;"></progress>
+  <!-- React.js -->
+  <p><strong>React.js</strong></p>
+  <progress value="80" max="100" style="width: 80%;"></progress>
+  <!-- Next.js -->
+  <p><strong>Next.js</strong></p>
+  <progress value="75" max="100" style="width: 80%;"></progress>
+  <!-- Node.js -->
+  <p><strong>Node.js</strong></p>
+  <progress value="70" max="100" style="width: 80%;"></progress>
+  <!-- MongoDB -->
+  <p><strong>MongoDB</strong></p>
+  <progress value="65" max="100" style="width: 80%;"></progress>
+  <!-- TypeScript -->
+  <p><strong>TypeScript</strong></p>
+  <progress value="60" max="100" style="width: 80%;"></progress>
 </div>
+
+---
 
 ## 🚀 Featured Projects
 
 <div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-| Project | Description | Technologies | Live Demo |
-|---------|-------------|--------------|-----------|
-| **Ozzy Kitchen** | Food delivery platform with admin dashboard | React, Node.js, MongoDB | [View](https://restaurant-d5367.web.app/) |
-| **Store Management** | Inventory system with analytics | React, Express, MongoDB | [View](https://store-management-467c1.web.app/) |
-| **Mental Health** | Doctor-patient portal with real-time chat | React, Node.js, WebSockets | [View](https://mental-health-deafe.web.app/) |
-| **ServiceX** | On-demand service platform (Flutter) | Flutter, Firebase | [View](https://servicex-741d4.web.app/) |
+  <!-- Ozzy Kitchen Card -->
+  <div style="background: #1e1e1e; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); width: 300px; padding: 20px; text-align: center;">
+    <h3>Ozzy Kitchen</h3>
+    <p>🍔 Food delivery platform with admin dashboard</p>
+    <p><strong>Tech:</strong> React, Node.js, MongoDB</p>
+    <a href="https://restaurant-d5367.web.app/" target="_blank">🔗 Live Demo</a>
+  </div>
 
+  <!-- Store Management Card -->
+  <div style="background: #1e1e1e; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); width: 300px; padding: 20px; text-align: center;">
+    <h3>Store Management</h3>
+    <p>📦 Inventory system with analytics</p>
+    <p><strong>Tech:</strong> React, Express, MongoDB</p>
+    <a href="https://store-management-467c1.web.app/" target="_blank">🔗 Live Demo</a>
+  </div>
+
+  <!-- Mental Health Card -->
+  <div style="background: #1e1e1e; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); width: 300px; padding: 20px; text-align: center;">
+    <h3>Mental Health Portal</h3>
+    <p>💬 Doctor-patient portal with real-time chat</p>
+    <p><strong>Tech:</strong> React, Node.js, WebSockets</p>
+    <a href="https://mental-health-deafe.web.app/" target="_blank">🔗 Live Demo</a>
+  </div>
+
+  <!-- ServiceX Card -->
+  <div style="background: #1e1e1e; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); width: 300px; padding: 20px; text-align: center;">
+    <h3>ServiceX</h3>
+    <p>🚀 On-demand service platform</p>
+    <p><strong>Tech:</strong> Flutter, Firebase</p>
+    <a href="https://servicex-741d4.web.app/" target="_blank">🔗 Live Demo</a>
+  </div>
+
+  </div>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Mamdouh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mamdouh-Helmy&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamdouh-Helmy&layout=compact&theme=radical)
-
-</div>
-
-## 📜 Certifications
-
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-
-![ITI MERN Stack](https://img.shields.io/badge/ITI-MERN_Stack-007ACC?style=for-the-badge&logo=javascript&logoColor=white)
-![Mindset React](https://img.shields.io/badge/Mindset-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js Certified](https://img.shields.io/badge/Node.js-Certified-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center" style="margin-top: 20px;">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamdoh-helmy-487418289)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mamdouh-Helmy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mamdouh-s-personal-website.web.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamdouhcs1@gmail.com)
-
-</div>
+---
 
 ## 🎧 Quranic Inspiration
 
 <div align="center">
-  
-[![Spotify Quran](https://img.shields.io/badge/Spotify-Quran-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6x7J7Qj7jNf47qZTwI1lXK)
-
+  <a href="https://open.spotify.com/track/6x7J7Qj7jNf47qZTwI1lXK" target="_blank">
+    <img src="https://img.shields.io/badge/🎧_Listen_to_Quran_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify" />
+  </a>
 </div>
 
-```javascript
-// Passion for clean code
-const express = require('express');
-const mongoose = require('mongoose');
-const app = express();
+---
 
-// Connect to MongoDB
-mongoose.connect(process.env.MONGODB_URI, { 
-  useNewUrlParser: true,
-  useUnifiedTopology: true 
-})
-.then(() => console.log('Database connected!'))
-.catch(err => console.log(err));
+## 🌐 Connect With Me
 
-// API Endpoint
-app.get('/api/projects', async (req, res) => {
-  try {
-    const projects = await Project.find();
-    res.json(projects);
-  } catch (err) {
-    res.status(500).json({ message: err.message });
-  }
-});
-```
-<div align="center" style="margin-top: 40px;">
-<img src="https://www2.0zz0.com/2025/07/14/07/151768685.jpg" width="40%" />
-
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamdoh-helmy-487418289)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mamdouh-Helmy)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mamdouh-s-personal-website.web.app/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamdouhcs1@gmail.com)
 </div>
 
-<div align="center" style="margin-top: 40px;">
-⭐ From Mamdouh Helmy with ❤️
-</div>
+---
+
+<details>
+  <summary>📜 Certifications</summary>
+
+  - **ITI MERN Stack** ![MERN](https://img.shields.io/badge/ITI-MERN_Stack-007ACC?style=for-the-badge&logo=javascript&logoColor=white)
+  - **Mindset ReactJS** ![React](https://img.shields.io/badge/Mindset-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  - **Node.js Certified** ![Node](https://img.shields.io/badge/Node.js-Certified-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</details>
+
+---
+
+> ⭐ From Mamdouh Helmy with ❤️
