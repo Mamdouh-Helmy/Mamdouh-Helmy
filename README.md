@@ -40,59 +40,65 @@ Hi, I’m Mamdouh Mustafa Helmy, a freshly graduated Full Stack Developer from M
 ## 🚀 Featured Projects
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 800px;">
-    <div style="flex: 1 1 300px; max-width: 350px;">
-      <a href="https://restaurant-d5367.web.app/" title="Kuwait System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Kuwait-System&theme=react&border_color=61dafb&border_radius=15" alt="Kuwait System" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-      </a>
-      <p style="font-size: 0.9em; color: #555;">A restaurant management platform with real-time order tracking.</p>
-    </div>
-    <div style="flex: 1 1 300px; max-width: 350px;">
-      <a href="https://store-management-467c1.web.app/" title="Store Management">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Store-Management&theme=react&border_color=61dafb&border_radius=15" alt="Store Management" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-      </a>
-      <p style="font-size: 0.9em; color: #555;">A comprehensive store management system for inventory and sales.</p>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 800px;">
-    <div style="flex: 1 1 300px; max-width: 350px;">
-      <a href="https://servicex-741d4.web.app/" title="ServiceX">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=ServiceX&theme=react&border_color=61dafb&border_radius=15" alt="ServiceX" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-      </a>
-      <p style="font-size: 0.9em; color: #555;">A service booking platform for seamless customer interactions.</p>
-    </div>
-    <div style="flex: 1 1 300px; max-width: 350px;">
-      <a href="https://mental-health-deafe.web.app/" title="Mental Health">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Mental-Health&theme=react&border_color=61dafb&border_radius=15" alt="Mental Health" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-      </a>
-      <p style="font-size: 0.9em; color: #555;">A mental health support app with resources and tracking tools.</p>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 800px;">
-    <div style="flex: 1 1 300px; max-width: 350px;">
-      <a href="https://mamdouh-helmy.github.io/my-ecommerce-app/" title="E-commerce Website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=my-ecommerce-app&theme=react&border_color=61dafb&border_radius=15" alt="E-commerce Website" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-      </a>
-      <p style="font-size: 0.9em; color: #555;">An e-commerce platform with secure payments and user-friendly UI.</p>
-    </div>
-    <div style="flex: 1 1 300px; max-width: 350px;">
-      <a href="https://dashboard-admin-4e8cb.web.app/" title="Admin Dashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Admin-Dashboard&theme=react&border_color=61dafb&border_radius=15" alt="Admin Dashboard" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-      </a>
-      <p style="font-size: 0.9em; color: #555;">A responsive admin dashboard for managing business operations.</p>
-    </div>
-  </div>
+  <table>
+    <tr>
+      <td align="center" valign="top" width="180">
+        <a href="https://restaurant-d5367.web.app/">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Kuwait-System&theme=react&border_color=61dafb&border_radius=15" alt="Kuwait System" width="140"/>
+        </a>
+        <br/>
+        <strong><a href="https://restaurant-d5367.web.app/">Kuwait System</a></strong>
+        <p><sub>A restaurant management platform with real-time order tracking.</sub></p>
+      </td>
+      <td align="center" valign="top" width="180">
+        <a href="https://store-management-467c1.web.app/">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Store-Management&theme=react&border_color=61dafb&border_radius=15" alt="Store Management" width="140"/>
+        </a>
+        <br/>
+        <strong><a href="https://store-management-467c1.web.app/">Store Management</a></strong>
+        <p><sub>A comprehensive store management system for inventory and sales.</sub></p>
+      </td>
+      <td align="center" valign="top" width="180">
+        <a href="https://servicex-741d4.web.app/">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=ServiceX&theme=react&border_color=61dafb&border_radius=15" alt="ServiceX" width="140"/>
+        </a>
+        <br/>
+        <strong><a href="https://servicex-741d4.web.app/">ServiceX</a></strong>
+        <p><sub>A service booking platform for seamless customer interactions.</sub></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="180">
+        <a href="https://mental-health-deafe.web.app/">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Mental-Health&theme=react&border_color=61dafb&border_radius=15" alt="Mental Health" width="140"/>
+        </a>
+        <br/>
+        <strong><a href="https://mental-health-deafe.web.app/">Mental Health</a></strong>
+        <p><sub>A mental health support app with resources and tracking tools.</sub></p>
+      </td>
+      <td align="center" valign="top" width="180">
+        <a href="https://mamdouh-helmy.github.io/my-ecommerce-app/">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=my-ecommerce-app&theme=react&border_color=61dafb&border_radius=15" alt="E-commerce Website" width="140"/>
+        </a>
+        <br/>
+        <strong><a href="https://mamdouh-helmy.github.io/my-ecommerce-app/">E-commerce Website</a></strong>
+        <p><sub>An e-commerce platform with secure payments and user-friendly UI.</sub></p>
+      </td>
+      <td align="center" valign="top" width="180">
+        <a href="https://dashboard-admin-4e8cb.web.app/">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Admin-Dashboard&theme=react&border_color=61dafb&border_radius=15" alt="Admin Dashboard" width="140"/>
+        </a>
+        <br/>
+        <strong><a href="https://dashboard-admin-4e8cb.web.app/">Admin Dashboard</a></strong>
+        <p><sub>A responsive admin dashboard for managing business operations.</sub></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center" style="margin-top: 30px;">
-  <a href="https://github.com/Mamdouh-Helmy?tab=repositories" style="font-family: 'Poppins', sans-serif; font-size: 1.2em; color: #61dafb; text-decoration: none; border: 2px solid #61dafb; padding: 10px 20px; border-radius: 10px; transition: background 0.3s ease;">
-    Show More Projects
+  <a href="https://github.com/Mamdouh-Helmy?tab=repositories">
+    <img src="https://img.shields.io/badge/Show%20More-📂%20Projects-61dafb?style=for-the-badge&logo=github" alt="Show More Projects" />
   </a>
 </div>
 
