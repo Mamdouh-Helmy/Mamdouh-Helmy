@@ -6,10 +6,7 @@
 
 # 🌟 Mamdouh Mustafa Helmy - Full Stack Developer
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=700&color=FF4B4B&vCenter=true&width=550&height=45&lines=Hello,+There!+👋" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=700&color=FFA500&vCenter=true&width=550&height=45&lines=I'm+Mamdouh+Mustafa+Helmy" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=700&color=32CD32&vCenter=true&width=550&height=45&lines=Full+Stack+Developer" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=700&color=1E90FF&vCenter=true&width=550&height=45&lines=Graduated+2025" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF0000&vCenter=true&width=500&height=50&lines=Hello,+There!+👋;I'm+Mamdouh+Mustafa+Helmy;Full+Stack+Developer;Graduated+2025" alt="Typing SVG" />
 </div>
 
 ## 👋 About Me
