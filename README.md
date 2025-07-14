@@ -128,8 +128,7 @@ Hi, I’m Mamdouh Mustafa Helmy, a freshly graduated Full Stack Developer from M
 ## 🎧 Quranic Inspiration
 <div align="center">
   <a href="https://open.spotify.com/episode/2EIgZVXyVSvkfAa7CAV3pJ?si=47b0fd24e7ef4e17" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/00C4B4/play.png" alt="Play Quran" />
-    <img src="https://i.pinimg.com/1200x/7b/8b/ec/7b8bece9b56a8c98ae7b91957e83cfe9.jpg" width="30%" />
+    <img src="https://i.pinimg.com/1200x/7b/8b/ec/7b8bece9b56a8c98ae7b91957e83cfe9.jpg" width="20%" />
   </a>
   <p>Click to enjoy a Quranic recitation!</p>
 </div>
