@@ -1,113 +1,103 @@
-# Mamdouh Mustafa Helmy - Full Stack Developer
 
+
+
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mamdouh-Helmy" alt="Visitor Badge" />
+
+# 🚀 Mamdouh Mustafa Helmy - Full Stack Developer
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=80&lines=Hello%2C+I'm+Mamdouh+Mustafa+Helmy;Full+Stack+Developer;MERN+Stack+Specialist;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I%27m+Mamdouh+Mustafa+Helmy;Full+Stack+Developer;MERN+Stack+Specialist&center=true&size=30" alt="Typing SVG" />
 </div>
 
-## 🛠️ Tech Stack
+## 👋 About Me
+Hi, I’m Mamdouh Mustafa Helmy, a Full Stack Developer from Egypt, currently studying at Minia University, IT Department (Graduating 2025). I love coding innovative solutions and exploring new technologies.  
+- 🎓 IT Scholarship recipient for MERN Stack training.  
+- 💻 Currently working on real-world projects for clients.  
+- 📚 Learning advanced UI/UX and cloud technologies.  
+- 💬 Ask me anything: [Open an Issue](https://github.com/Mamdouh-Helmy/Mamdouh-Helmy/issues).  
+- 📫 Reach me: [mamdouhcs1@gmail.com](mailto:mamdouhcs1@gmail.com).
 
+## 🛠️ Languages & Tools
 <div align="center">
-  
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Others
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
 ## 🚀 Featured Projects
-
 <div align="center">
-
-| Project | Description | Technologies | Live Demo |
-|---------|-------------|--------------|-----------|
-| **Ozzy Kitchen** | Food delivery platform with admin dashboard | React, Node.js, MongoDB | [View](https://restaurant-d5367.web.app/) |
-| **Store Management** | Inventory system with analytics | React, Express, MongoDB | [View](https://store-management-467c1.web.app/) |
-| **Mental Health** | Doctor-patient portal with real-time chat | React, Node.js, WebSockets | [View](https://mental-health-deafe.web.app/) |
-| **ServiceX** | On-demand service platform (Flutter) | Flutter, Firebase | [View](https://servicex-741d4.web.app/) |
-
+  <a href="https://restaurant-d5367.web.app/" title="Ozzy Kitchen">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Ozzy-Kitchen&theme=react&border_color=61dafb&border_radius=10" alt="Ozzy Kitchen" />
+  </a>
+  <a href="https://store-management-467c1.web.app/" title="Store Management">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Store-Management&theme=react&border_color=61dafb&border_radius=10" alt="Store Management" />
+  </a>
 </div>
-
-## 📊 GitHub Stats
-
+<br/><br/><br/><br/><br/><br/>
 <div align="center">
-  
-![Mamdouh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mamdouh-Helmy&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamdouh-Helmy&layout=compact&theme=radical)
-
+  <a href="https://mental-health-deafe.web.app/" title="Mental Health">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Mental-Health&theme=react&border_color=61dafb&border_radius=10" alt="Mental Health" />
+  </a>
+  <a href="https://servicex-741d4.web.app/" title="ServiceX">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=ServiceX&theme=react&border_color=61dafb&border_radius=10" alt="ServiceX" />
+  </a>
 </div>
+<br/><br/><br/><br/><br/><br/>
+<h4 align="center">
+  <a href="https://github.com/Mamdouh-Helmy?tab=repositories" title="Show More">🔍 Show More Repositories 🔎</a>
+</h4>
 
-## 📜 Certifications
-
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-
-![ITI MERN Stack](https://img.shields.io/badge/ITI-MERN_Stack-007ACC?style=for-the-badge&logo=javascript&logoColor=white)
-![Mindset React](https://img.shields.io/badge/Mindset-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js Certified](https://img.shields.io/badge/Node.js-Certified-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
+## ⚡ Stats
+<div align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Mamdouh-Helmy&theme=react&border=61dafb&hide_border=true" alt="Mamdouh-Helmy" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Mamdouh-Helmy&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Mamdouh-Helmy Stats" />
+  </a>
 </div>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamdouh-Helmy&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Langs" />
+  </a>
+</div>
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mamdouh-Helmy&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-## 🌐 Connect With Me
-
-<div align="center" style="margin-top: 20px;">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamdoh-helmy-487418289)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mamdouh-Helmy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mamdouh-s-personal-website.web.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamdouhcs1@gmail.com)
-
+## 🎓 Certifications
+<div align="center">
+  <img src="https://img.shields.io/badge/ITI-MERN_Stack-007ACC?style=for-the-badge&logo=javascript&logoColor=white" alt="ITI MERN" />
+  <img src="https://img.shields.io/badge/Mindset-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Mindset React" />
+  <img src="https://img.shields.io/badge/Node.js-Certified-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Cert" />
 </div>
 
 ## 🎧 Quranic Inspiration
+<div align="center">
+  <a href="https://open.spotify.com/track/6x7J7Qj7jNf47qZTwI1lXK" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/1DB954/play.png" alt="Play Quran" />
+  </a>
+  <p>Click the play button to enjoy Quranic recitation!</p>
+</div>
+
+## 🌐 Connect With Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/mamdoh-helmy-487418289"><img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://github.com/Mamdouh-Helmy"><img src="https://img.icons8.com/ios-filled/30/100000/github.png" alt="GitHub" /></a>
+  <a href="https://mamdouh-s-personal-website.web.app/"><img src="https://img.icons8.com/ios-filled/30/FF5722/chrome.png" alt="Portfolio" /></a>
+  <a href="mailto:mamdouhcs1@gmail.com"><img src="https://img.icons8.com/ios-filled/30/D14836/gmail.png" alt="Email" /></a>
+</div>
+
+## 💡 Fun Fact
+I’m passionate about blending tech with creativity—next up, an AI-powered Quran app!
+
+---
 
 <div align="center">
-  
-[![Spotify Quran](https://img.shields.io/badge/Spotify-Quran-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6x7J7Qj7jNf47qZTwI1lXK)
-
-</div>
-
-```javascript
-// Passion for clean code
-const express = require('express');
-const mongoose = require('mongoose');
-const app = express();
-
-// Connect to MongoDB
-mongoose.connect(process.env.MONGODB_URI, { 
-  useNewUrlParser: true,
-  useUnifiedTopology: true 
-})
-.then(() => console.log('Database connected!'))
-.catch(err => console.log(err));
-
-// API Endpoint
-app.get('/api/projects', async (req, res) => {
-  try {
-    const projects = await Project.find();
-    res.json(projects);
-  } catch (err) {
-    res.status(500).json({ message: err.message });
-  }
-});
-```
-<div align="center" style="margin-top: 40px;">
-<img src="https://www2.0zz0.com/2025/07/14/07/151768685.jpg" width="40%" />
-
-</div>
-
-<div align="center" style="margin-top: 40px;">
-⭐ From Mamdouh Helmy with ❤️
+  <img src="https://komarev.com/ghpvc/?username=Mamdouh-Helmy&color=brightgreen" alt="Profile Views" />
 </div>
