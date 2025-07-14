@@ -1,78 +1,83 @@
 # Mamdouh Mustafa Helmy - Full Stack Developer
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=80&lines=Hello%2C+I'm+Mamdouh+Mustafa+Helmy;Full+Stack+Developer;MERN+Stack+Specialist;UI%2FUX+Enthusiast)\## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=80&lines=Hello%2C+I'm+Mamdouh+Mustafa+Helmy;Full+Stack+Developer;MERN+Stack+Specialist;UI%2FUX+Enthusiast" alt="Typing SVG" />
+</div>
 
+## 🛠️ Tech Stack
+
+<div align="center">
+  
 ### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)\### Backend
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)\### Others
+### Others
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)\## 📈 Skills
-
-**React**
-
-90%
-
-**Node.js**
-
-85%
-
-**MongoDB**
-
-80%
-
-**TypeScript**
-
-75%
-
-**Flutter**
-
-70%
+</div>
 
 ## 🚀 Featured Projects
 
-### Ozzy Kitchen
+<div align="center">
 
-Food delivery platform with admin dashboard
+| Project | Description | Technologies | Live Demo |
+|---------|-------------|--------------|-----------|
+| **Ozzy Kitchen** | Food delivery platform with admin dashboard | React, Node.js, MongoDB | [View](https://restaurant-d5367.web.app/) |
+| **Store Management** | Inventory system with analytics | React, Express, MongoDB | [View](https://store-management-467c1.web.app/) |
+| **Mental Health** | Doctor-patient portal with real-time chat | React, Node.js, WebSockets | [View](https://mental-health-deafe.web.app/) |
+| **ServiceX** | On-demand service platform (Flutter) | Flutter, Firebase | [View](https://servicex-741d4.web.app/) |
 
-**Tech:** React, Node.js, MongoDB
-
-🌐 Live Demo
-
-### Store Management
-
-Inventory system with analytics
-
-**Tech:** React, Express, MongoDB
-
-🌐 Live Demo
-
-### Mental Health
-
-Doctor-patient portal with real-time chat
-
-**Tech:** React, Node.js, WebSockets
-
-🌐 Live Demo
-
-### ServiceX
-
-On-demand service platform (Flutter)
-
-**Tech:** Flutter, Firebase
-
-🌐 Live Demo
+</div>
 
 ## 📊 GitHub Stats
 
-![Mamdouh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mamdouh-Helmy&show_icons=true&theme=radical)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamdouh-Helmy&layout=compact&theme=radical)\## 📜 Certifications
+<div align="center">
+  
+![Mamdouh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mamdouh-Helmy&show_icons=true&theme=radical)
 
-![ITI MERN Stack](https://img.shields.io/badge/ITI-MERN_Stack-007ACC?style=for-the-badge&logo=javascript&logoColor=white)![Mindset React](https://img.shields.io/badge/Mindset-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)![Node.js Certified](https://img.shields.io/badge/Node.js-Certified-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)\## 🌐 Connect With Me
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamdouh-Helmy&layout=compact&theme=radical)
+
+</div>
+
+## 📜 Certifications
+
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+
+![ITI MERN Stack](https://img.shields.io/badge/ITI-MERN_Stack-007ACC?style=for-the-badge&logo=javascript&logoColor=white)
+![Mindset React](https://img.shields.io/badge/Mindset-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js Certified](https://img.shields.io/badge/Node.js-Certified-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center" style="margin-top: 20px;">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamdoh-helmy-487418289)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mamdouh-Helmy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mamdouh-s-personal-website.web.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamdouhcs1@gmail.com)
+
+</div>
 
 ## 🎧 Quranic Inspiration
 
-Click to listen to Quranic inspiration
+<div align="center">
+  
+[![Spotify Quran](https://img.shields.io/badge/Spotify-Quran-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6x7J7Qj7jNf47qZTwI1lXK)
+
+</div>
 
 ```javascript
 // Passion for clean code
@@ -98,5 +103,11 @@ app.get('/api/projects', async (req, res) => {
   }
 });
 ```
+<div align="center" style="margin-top: 40px;">
+<img src="https://www2.0zz0.com/2025/07/14/07/151768685.jpg" width="40%" />
 
-![](https://www2.0zz0.com/2025/07/14/07/151768685.jpg)\# ⭐ From Mamdouh Helmy with ❤️
+</div>
+
+<div align="center" style="margin-top: 40px;">
+⭐ From Mamdouh Helmy with ❤️
+</div>
