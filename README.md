@@ -140,8 +140,8 @@ Hi, I’m Mamdouh Mustafa Helmy, a freshly graduated Full Stack Developer from M
   <a href="mailto:mamdouhcs1@gmail.com"><img src="https://img.icons8.com/ios-filled/30/FFD700/gmail.png" alt="Email" /></a>
 </div>
 
-## 💡 Fun Fact
-I’m excited to blend my coding skills with creativity—next goal: an AI-enhanced Quran app!
+## 💡 Fun Fact  
+I love challenging myself to write algorithms that tell a story—sometimes I code a simple game in minutes to push the boundaries of creativity!  
 
 ---
 
