@@ -107,4 +107,7 @@ app.get('/api/projects', async (req, res) => {
 <img src="https://www2.0zz0.com/2025/07/14/07/151768685.jpg" width="40%" />
 
 </div>
+
+<div align="center" style="margin-top: 40px;">
 ⭐ From Mamdouh Helmy with ❤️
+</div>
