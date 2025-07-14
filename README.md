@@ -38,33 +38,63 @@ Hi, I’m Mamdouh Mustafa Helmy, a freshly graduated Full Stack Developer from M
 </div>
 
 ## 🚀 Featured Projects
+
 <div align="center">
-  - 🌟 **[Kuwait System](https://restaurant-d5367.web.app/)**
-    - 📝 **Description**: A bilingual (Arabic/English) food delivery platform with scheduling, multiple payment options, and an admin dashboard for managing menus, prices, sales, and stock.
-    - 🛠️ **Technologies**: Firebase, React.js, Tailwind CSS, Node.js, Express.js, MongoDB
-    - 🌐 **Live Demo**: [Visit](https://restaurant-d5367.web.app/)
-  - 🌟 **[Store Management](https://store-management-467c1.web.app/)**
-    - 📝 **Description**: An inventory system with sales, purchases, supplier/customer tracking, PDF invoices, and detailed reports with flowcharts.
-    - 🛠️ **Technologies**: React.js, Tailwind CSS, Node.js, Express.js, MongoDB
-    - 🌐 **Live Demo**: [Visit](https://store-management-467c1.web.app/) (Username: mamdouh, Password: mamdouh1970@)
-  - 🌟 **[ServiceX](https://servicex-741d4.web.app/)**
-    - 📝 **Description**: A multi-platform service app (web & mobile) for requesting services, viewing technicians, and support, with an admin dashboard.
-    - 🛠️ **Technologies**: Flutter, Firebase, React.js, Tailwind CSS, TypeScript, ASP.NET
-    - 🌐 **Live Demo**: 
-      - [ServiceX](https://servicex-741d4.web.app/)
-      - [Admin Dashboard](https://dashboard-admin-4e8cb.web.app/)
-  - 🌟 **[Mental Health](https://mental-health-deafe.web.app/)**
-    - 📝 **Description**: A portal with diagnosis questions, real-time community, and appointment booking for doctors and patients.
-    - 🛠️ **Technologies**: React.js, Tailwind CSS, Node.js, Express.js, MongoDB
-    - 🌐 **Live Demo**: [Visit](https://mental-health-deafe.web.app/)
-  - 🌟 **[E-commerce Website](https://mamdouh-helmy.github.io/my-ecommerce-app/)**
-    - 📝 **Description**: An e-commerce site from a Mindset scholarship project, designed on Figma with React.js and Context API.
-    - 🛠️ **Technologies**: React.js, Context API, Browser Router
-    - 🌐 **Live Demo**: [Visit](https://mamdouh-helmy.github.io/my-ecommerce-app/)
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 800px;">
+    <div style="flex: 1 1 300px; max-width: 350px;">
+      <a href="https://restaurant-d5367.web.app/" title="Kuwait System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Kuwait-System&theme=react&border_color=61dafb&border_radius=15" alt="Kuwait System" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+      </a>
+      <p style="font-size: 0.9em; color: #555;">A restaurant management platform with real-time order tracking.</p>
+    </div>
+    <div style="flex: 1 1 300px; max-width: 350px;">
+      <a href="https://store-management-467c1.web.app/" title="Store Management">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Store-Management&theme=react&border_color=61dafb&border_radius=15" alt="Store Management" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+      </a>
+      <p style="font-size: 0.9em; color: #555;">A comprehensive store management system for inventory and sales.</p>
+    </div>
+  </div>
 </div>
-<h4 align="center">
-  <a href="https://github.com/Mamdouh-Helmy?tab=repositories" title="Show More">🔍 Show More Repositories 🔎</a>
-</h4>
+
+<div align="center" style="margin-top: 20px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 800px;">
+    <div style="flex: 1 1 300px; max-width: 350px;">
+      <a href="https://servicex-741d4.web.app/" title="ServiceX">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=ServiceX&theme=react&border_color=61dafb&border_radius=15" alt="ServiceX" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+      </a>
+      <p style="font-size: 0.9em; color: #555;">A service booking platform for seamless customer interactions.</p>
+    </div>
+    <div style="flex: 1 1 300px; max-width: 350px;">
+      <a href="https://mental-health-deafe.web.app/" title="Mental Health">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Mental-Health&theme=react&border_color=61dafb&border_radius=15" alt="Mental Health" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+      </a>
+      <p style="font-size: 0.9em; color: #555;">A mental health support app with resources and tracking tools.</p>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 800px;">
+    <div style="flex: 1 1 300px; max-width: 350px;">
+      <a href="https://mamdouh-helmy.github.io/my-ecommerce-app/" title="E-commerce Website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=my-ecommerce-app&theme=react&border_color=61dafb&border_radius=15" alt="E-commerce Website" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+      </a>
+      <p style="font-size: 0.9em; color: #555;">An e-commerce platform with secure payments and user-friendly UI.</p>
+    </div>
+    <div style="flex: 1 1 300px; max-width: 350px;">
+      <a href="https://dashboard-admin-4e8cb.web.app/" title="Admin Dashboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Admin-Dashboard&theme=react&border_color=61dafb&border_radius=15" alt="Admin Dashboard" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+      </a>
+      <p style="font-size: 0.9em; color: #555;">A responsive admin dashboard for managing business operations.</p>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="margin-top: 30px;">
+  <a href="https://github.com/Mamdouh-Helmy?tab=repositories" style="font-family: 'Poppins', sans-serif; font-size: 1.2em; color: #61dafb; text-decoration: none; border: 2px solid #61dafb; padding: 10px 20px; border-radius: 10px; transition: background 0.3s ease;">
+    Show More Projects
+  </a>
+</div>
 
 ## ⚡ Stats
 <div align="center">
