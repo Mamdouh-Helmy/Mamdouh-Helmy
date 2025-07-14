@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-00C4B4?style=for-the-badge&logo=codeigniter" alt="Full Stack Badge"/>
   <img src="https://img.shields.io/badge/Based%20in-Egypt%20🇪🇬-FF5733?style=for-the-badge" alt="Egypt Badge"/>
-  <img src="https://www2.0zz0.com/2025/07/14/07/475636567.jpg" alt="Visitor Count"/>
+  <img src="https://www2.0zz0.com/2025/07/14/07/475636567.jpg" alt="Visitor Count" width="40%"/>
 </p>
 
 ---
