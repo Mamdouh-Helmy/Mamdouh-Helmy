@@ -2,28 +2,37 @@
 
 
 
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mamdouh-Helmy" alt="Visitor Badge" />
 
 # 🚀 Mamdouh Mustafa Helmy - Full Stack Developer
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I%27m+Mamdouh+Mustafa+Helmy;Full+Stack+Developer;MERN+Stack+Specialist&center=true&size=30" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I%27m+Mamdouh+Mustafa+Helmy;Full+Stack+Developer;Graduated+2025¢er=true&size=30" alt="Typing SVG" />
 </div>
 
 ## 👋 About Me
-Hi, I’m Mamdouh Mustafa Helmy, a Full Stack Developer from Egypt, currently studying at Minia University, IT Department (Graduating 2025). I love coding innovative solutions and exploring new technologies.  
-- 🎓 IT Scholarship recipient for MERN Stack training.  
-- 💻 Currently working on real-world projects for clients.  
-- 📚 Learning advanced UI/UX and cloud technologies.  
+Hi, I’m Mamdouh Mustafa Helmy, a freshly graduated Full Stack Developer from Minia University, Faculty of Science, IT Department (Graduated July 2025). Passionate about coding innovative solutions, I’ve worked on real-world projects for clients.  
+- 🎓 Graduated with a focus on MERN Stack and modern web technologies.  
+- 💻 Experienced in building websites and applications for clients.  
+- 📚 Currently exploring advanced UI/UX and cloud computing.  
 - 💬 Ask me anything: [Open an Issue](https://github.com/Mamdouh-Helmy/Mamdouh-Helmy/issues).  
 - 📫 Reach me: [mamdouhcs1@gmail.com](mailto:mamdouhcs1@gmail.com).
 
 ## 🛠️ Languages & Tools
 <div align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -31,8 +40,8 @@ Hi, I’m Mamdouh Mustafa Helmy, a Full Stack Developer from Egypt, currently st
 
 ## 🚀 Featured Projects
 <div align="center">
-  <a href="https://restaurant-d5367.web.app/" title="Ozzy Kitchen">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Ozzy-Kitchen&theme=react&border_color=61dafb&border_radius=10" alt="Ozzy Kitchen" />
+  <a href="https://restaurant-d5367.web.app/" title="Kuwait System">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Kuwait-System&theme=react&border_color=61dafb&border_radius=10" alt="Kuwait System" />
   </a>
   <a href="https://store-management-467c1.web.app/" title="Store Management">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Store-Management&theme=react&border_color=61dafb&border_radius=10" alt="Store Management" />
@@ -40,11 +49,20 @@ Hi, I’m Mamdouh Mustafa Helmy, a Full Stack Developer from Egypt, currently st
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div align="center">
-  <a href="https://mental-health-deafe.web.app/" title="Mental Health">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Mental-Health&theme=react&border_color=61dafb&border_radius=10" alt="Mental Health" />
-  </a>
   <a href="https://servicex-741d4.web.app/" title="ServiceX">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=ServiceX&theme=react&border_color=61dafb&border_radius=10" alt="ServiceX" />
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=ServiceX&theme=react&border_color=61dafb&border_radius=10" alt="ServiceX" />
+  </a>
+  <a href="https://mental-health-deafe.web.app/" title="Mental Health">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Mental-Health&theme=react&border_color=61dafb&border_radius=10" alt="Mental Health" />
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div align="center">
+  <a href="https://mamdouh-helmy.github.io/my-ecommerce-app/" title="E-commerce Website">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=my-ecommerce-app&theme=react&border_color=61dafb&border_radius=10" alt="E-commerce Website" />
+  </a>
+  <a href="https://dashboard-admin-4e8cb.web.app/" title="Admin Dashboard">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Admin-Dashboard&theme=react&border_color=61dafb&border_radius=10" alt="Admin Dashboard" />
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
@@ -70,19 +88,17 @@ Hi, I’m Mamdouh Mustafa Helmy, a Full Stack Developer from Egypt, currently st
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mamdouh-Helmy&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-## 🎓 Certifications
-<div align="center">
-  <img src="https://img.shields.io/badge/ITI-MERN_Stack-007ACC?style=for-the-badge&logo=javascript&logoColor=white" alt="ITI MERN" />
-  <img src="https://img.shields.io/badge/Mindset-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Mindset React" />
-  <img src="https://img.shields.io/badge/Node.js-Certified-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Cert" />
-</div>
+## 🎓 Achievements
+- 🏆 Awarded IT Scholarship for comprehensive MERN Stack Developer training.
+- 🎉 Completed Mindset React.js certification, mastering modern web development.
+- 🌟 Built real-world websites and apps for clients, showcasing practical expertise.
 
 ## 🎧 Quranic Inspiration
 <div align="center">
   <a href="https://open.spotify.com/track/6x7J7Qj7jNf47qZTwI1lXK" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/1DB954/play.png" alt="Play Quran" />
   </a>
-  <p>Click the play button to enjoy Quranic recitation!</p>
+  <p>Click to enjoy a Quranic recitation!</p>
 </div>
 
 ## 🌐 Connect With Me
@@ -94,7 +110,7 @@ Hi, I’m Mamdouh Mustafa Helmy, a Full Stack Developer from Egypt, currently st
 </div>
 
 ## 💡 Fun Fact
-I’m passionate about blending tech with creativity—next up, an AI-powered Quran app!
+I’m excited to blend my coding skills with creativity—next goal: an AI-enhanced Quran app!
 
 ---
 
