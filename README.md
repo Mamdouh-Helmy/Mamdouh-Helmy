@@ -35,29 +35,32 @@ Hi, I’m Mamdouh Mustafa Helmy, a freshly graduated Full Stack Developer from M
 
 ## 🚀 Featured Projects
 <div align="center">
-  - 🌟 **Kuwait System**
-    - 📝 **Description**: A complete food delivery website with bilingual (Arabic/English) support, multiple payment options, and delivery scheduling. Includes an admin dashboard for managing menu items, prices, sales analytics, and stock.
-    - 🛠️ **Technologies**: Firebase, React.js, Tailwind CSS, Node.js, Express.js, MongoDB
-    - 🌐 **Live Demo**: [https://restaurant-d5367.web.app/](https://restaurant-d5367.web.app/)
-  - 🌟 **ServiceX**
-    - 📝 **Description**: A multi-platform service platform (web & mobile) using Flutter. Allows customers to request services (e.g., AC repair, plumbing), view available technicians, and contact support. Includes an admin dashboard for service and code management.
-    - 🛠️ **Technologies**: Flutter, Firebase, React.js, Tailwind CSS, TypeScript, ASP.NET
-    - 🌐 **Live Demo**: 
-      - [ServiceX](https://servicex-741d4.web.app/)
-      - [Admin Dashboard](https://dashboard-admin-4e8cb.web.app/)
-  - 🌟 **Store Management**
-    - 📝 **Description**: An inventory management system with sales, purchases, supplier/customer tracking, PDF invoices, and detailed reports (top/low sales, stock levels, revenue analysis) with flowcharts.
-    - 🛠️ **Technologies**: React.js, Tailwind CSS, Node.js, Express.js, MongoDB
-    - 🌐 **Live Demo**: [https://store-management-467c1.web.app/](https://store-management-467c1.web.app/) (Username: mamdouh, Password: mamdouh1970@)
-  - 🌟 **Mental Health**
-    - 📝 **Description**: A portal for doctors and patients with initial diagnosis questions, real-time community (posts/comments), and appointment booking with doctor communication.
-    - 🛠️ **Technologies**: React.js, Tailwind CSS, Node.js, Express.js, MongoDB
-    - 🌐 **Live Demo**: [https://mental-health-deafe.web.app/](https://mental-health-deafe.web.app/)
-  - 🌟 **E-commerce Website**
-    - 📝 **Description**: An e-commerce site built for a Mindset scholarship project, designed on Figma, with React.js, Context API, and Browser Router.
-    - 🛠️ **Technologies**: React.js, Context API, Browser Router
-    - 🌐 **Live Demo**: [https://mamdouh-helmy.github.io/my-ecommerce-app/](https://mamdouh-helmy.github.io/my-ecommerce-app/)
+  <a href="https://restaurant-d5367.web.app/" title="Kuwait System">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Kuwait-System&theme=react&border_color=61dafb&border_radius=10" alt="Kuwait System" />
+  </a>
+  <a href="https://store-management-467c1.web.app/" title="Store Management">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Store-Management&theme=react&border_color=61dafb&border_radius=10" alt="Store Management" />
+  </a>
 </div>
+<br/><br/><br/><br/><br/><br/>
+<div align="center">
+  <a href="https://servicex-741d4.web.app/" title="ServiceX">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=ServiceX&theme=react&border_color=61dafb&border_radius=10" alt="ServiceX" />
+  </a>
+  <a href="https://mental-health-deafe.web.app/" title="Mental Health">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Mental-Health&theme=react&border_color=61dafb&border_radius=10" alt="Mental Health" />
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div align="center">
+  <a href="https://mamdouh-helmy.github.io/my-ecommerce-app/" title="E-commerce Website">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=my-ecommerce-app&theme=react&border_color=61dafb&border_radius=10" alt="E-commerce Website" />
+  </a>
+  <a href="https://dashboard-admin-4e8cb.web.app/" title="Admin Dashboard">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamdouh-Helmy&repo=Admin-Dashboard&theme=react&border_color=61dafb&border_radius=10" alt="Admin Dashboard" />
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 <h4 align="center">
   <a href="https://github.com/Mamdouh-Helmy?tab=repositories" title="Show More">🔍 Show More Repositories 🔎</a>
 </h4>
@@ -109,8 +112,3 @@ I’m excited to blend my coding skills with creativity—next goal: an AI-enhan
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mamdouh-Helmy&color=brightgreen" alt="Profile Views" />
 </div>
-
-
-
-
-
